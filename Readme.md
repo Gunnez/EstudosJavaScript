@@ -1,0 +1,2 @@
+# Estudos JavaScript
+Aqui estarão arquivados meus estudos em cima de javascript, começando pelo basico e aos poucos indo para o avançado, pretendo tambem futuramente por uma pasta de NODEJS junto neste repositório
